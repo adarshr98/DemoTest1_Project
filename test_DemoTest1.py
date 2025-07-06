@@ -70,4 +70,4 @@ def test_DemoTest1(browserInstance, test_list_item):
 
 
 
-    time.sleep(4)
+    time.sleep(5)
